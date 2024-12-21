@@ -1,3 +1,4 @@
+![image](https://github.com/user-attachments/assets/297ca2e0-85dd-4e48-a904-ad641078e51f)
 # Edufi Investment Platform
 
 ## Project Description
