@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/297ca2e0-85dd-4e48-a904-ad641078e51f)
+
 # Edufi Investment Platform
 
 ## Project Description
@@ -6,6 +6,8 @@ Edufi Investment Platform is a decentralized smart contract application designed
 
 ## Contract Address
 0xd9145CCE52D386f254917e481eB44e9943F39138
+
+![image](https://github.com/user-attachments/assets/297ca2e0-85dd-4e48-a904-ad641078e51f)
 
 ## Project Vision
 To create a transparent, blockchain-powered platform that empowers individuals to invest in educational initiatives, fostering innovation and development in the education sector while ensuring accountability and trust.
